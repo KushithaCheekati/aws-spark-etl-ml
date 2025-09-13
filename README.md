@@ -35,7 +35,7 @@ The architecture includes:
 - **AWS Glue:** Catalog datasets for querying  
 - **Amazon Athena:** Query and analyze processed datasets  
 - **Amazon SageMaker Studio:** Interactive environment for ML model training, evaluation, and deployment  
-
+![Architecture](create-an-etl-pipeline-apache-spark/images/Architecture.png)
 
 ---
 
