@@ -36,7 +36,6 @@ The architecture includes:
 - **Amazon Athena:** Query and analyze processed datasets  
 - **Amazon SageMaker Studio:** Interactive environment for ML model training, evaluation, and deployment  
 
-![Architecture](img/img1.png)
 
 ---
 
